@@ -1,3 +1,5 @@
+import 'browser-env';
+
 import { createEventTargetConstructor } from './factories/event-target-constructor';
 import { createEventTargetFactory } from './factories/event-target-factory';
 import { createSignalingFactory } from './factories/signaling-factory';
